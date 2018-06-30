@@ -1,0 +1,23 @@
+{
+  "name": "jquery-binarytransport",
+  "description": "jQuery BinaryTransport",
+  "version": "0.1.0",
+  "homepage": "https://github.com/raicheff/jquery-binarytransport",
+  "author": {
+    "name": "Boris Raicheff",
+    "email": "b@raicheff.com",
+    "url": "https://raicheff.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/raicheff/jquery-binarytransport.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raicheff/jquery-binarytransport/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "main": "jquery-binarytransport.js"
+}
